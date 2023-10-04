@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dolap
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP apps
 - 📫 You can reach me on aatihic@gmail.com
 
 <!---
